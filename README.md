@@ -1,7 +1,7 @@
-### smallsh project
+*smallsh project*
 
 
-Simple operating system and bash shell implemented in c.
+### Simple operating system and bash shell implemented in c.
 
 ### Functionality
 Provide a prompt for running commands using a :
